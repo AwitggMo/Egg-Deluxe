@@ -1,0 +1,7 @@
+{
+  "appId": "com.eggopener.deluxe",
+  "appName": "Egg Opener Deluxe",
+  "webDir": "www",
+  "backgroundColor": "#07030f",
+  "android": { "allowMixedContent": false, "backgroundColor": "#07030f" }
+}
